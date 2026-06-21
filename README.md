@@ -69,7 +69,7 @@ The model was trained on approximately **76,000 Indian legal instruction-respons
 
 The complete dataset is hosted on Hugging Face:
 
-👉 **Dataset:** [Add Hugging Face Dataset Link Here]
+👉 **Dataset:** [https://huggingface.co/datasets/ManjunathCode10x/Vakil_Indian_Legal_Dataset]
 
 Dataset link is also available in:
 
@@ -101,7 +101,7 @@ The objective was to improve legal terminology understanding, domain-specific re
 
 The trained model is publicly available on Hugging Face:
 
-👉 **Model:** [Add Hugging Face Model Link Here]
+👉 **Model:** [https://huggingface.co/ManjunathCode10x/vakil-phi3-mini-4k-instruct-finetuned]
 
 Model link is also available in:
 
